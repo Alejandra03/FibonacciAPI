@@ -7,5 +7,6 @@ In fibonacci.js I have the function which calculates the sum of each number, dep
 Also I have the get method and post method. Using get we can read the last result and using post we can 
 send the number, in this case the index, and there are two options:
  1. We can see the result when we send the index.
- 2. We can see the result using get method only. (That's the reason there is one commented line)
+ 2. We can see the result using get method only. (That's the reason there is one commented line).
+ 
  Fibonacci function has conditions and recursion.
